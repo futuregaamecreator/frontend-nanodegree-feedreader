@@ -1,8 +1,11 @@
 #Frontend Nanodegree Feedreader
 
 Local Version
+
 Download the zip
+
 Extract the zip
+
 Run the Index.html in the browser of your choice.(Have Fun)
 
 Online Version
